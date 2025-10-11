@@ -1,0 +1,14 @@
+/home/freddy/RiderProjects/Program/ColoredItems/bin/Debug/net9.0/ColoredItems
+/home/freddy/RiderProjects/Program/ColoredItems/bin/Debug/net9.0/ColoredItems.deps.json
+/home/freddy/RiderProjects/Program/ColoredItems/bin/Debug/net9.0/ColoredItems.runtimeconfig.json
+/home/freddy/RiderProjects/Program/ColoredItems/bin/Debug/net9.0/ColoredItems.dll
+/home/freddy/RiderProjects/Program/ColoredItems/bin/Debug/net9.0/ColoredItems.pdb
+/home/freddy/RiderProjects/Program/ColoredItems/obj/Debug/net9.0/ColoredItems.GeneratedMSBuildEditorConfig.editorconfig
+/home/freddy/RiderProjects/Program/ColoredItems/obj/Debug/net9.0/ColoredItems.AssemblyInfoInputs.cache
+/home/freddy/RiderProjects/Program/ColoredItems/obj/Debug/net9.0/ColoredItems.AssemblyInfo.cs
+/home/freddy/RiderProjects/Program/ColoredItems/obj/Debug/net9.0/ColoredItems.csproj.CoreCompileInputs.cache
+/home/freddy/RiderProjects/Program/ColoredItems/obj/Debug/net9.0/ColoredItems.dll
+/home/freddy/RiderProjects/Program/ColoredItems/obj/Debug/net9.0/refint/ColoredItems.dll
+/home/freddy/RiderProjects/Program/ColoredItems/obj/Debug/net9.0/ColoredItems.pdb
+/home/freddy/RiderProjects/Program/ColoredItems/obj/Debug/net9.0/ColoredItems.genruntimeconfig.cache
+/home/freddy/RiderProjects/Program/ColoredItems/obj/Debug/net9.0/ref/ColoredItems.dll

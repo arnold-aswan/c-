@@ -1,0 +1,14 @@
+/home/freddy/RiderProjects/Program/arrow factories/bin/Debug/net9.0/arrow factories
+/home/freddy/RiderProjects/Program/arrow factories/bin/Debug/net9.0/arrow factories.deps.json
+/home/freddy/RiderProjects/Program/arrow factories/bin/Debug/net9.0/arrow factories.runtimeconfig.json
+/home/freddy/RiderProjects/Program/arrow factories/bin/Debug/net9.0/arrow factories.dll
+/home/freddy/RiderProjects/Program/arrow factories/bin/Debug/net9.0/arrow factories.pdb
+/home/freddy/RiderProjects/Program/arrow factories/obj/Debug/net9.0/arrow factories.GeneratedMSBuildEditorConfig.editorconfig
+/home/freddy/RiderProjects/Program/arrow factories/obj/Debug/net9.0/arrow factories.AssemblyInfoInputs.cache
+/home/freddy/RiderProjects/Program/arrow factories/obj/Debug/net9.0/arrow factories.AssemblyInfo.cs
+/home/freddy/RiderProjects/Program/arrow factories/obj/Debug/net9.0/arrow factories.csproj.CoreCompileInputs.cache
+/home/freddy/RiderProjects/Program/arrow factories/obj/Debug/net9.0/arrow factories.dll
+/home/freddy/RiderProjects/Program/arrow factories/obj/Debug/net9.0/refint/arrow factories.dll
+/home/freddy/RiderProjects/Program/arrow factories/obj/Debug/net9.0/arrow factories.pdb
+/home/freddy/RiderProjects/Program/arrow factories/obj/Debug/net9.0/arrow factories.genruntimeconfig.cache
+/home/freddy/RiderProjects/Program/arrow factories/obj/Debug/net9.0/ref/arrow factories.dll

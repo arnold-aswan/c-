@@ -1,0 +1,14 @@
+/home/freddy/RiderProjects/Class Catacombs/Card/bin/Debug/net9.0/Card
+/home/freddy/RiderProjects/Class Catacombs/Card/bin/Debug/net9.0/Card.deps.json
+/home/freddy/RiderProjects/Class Catacombs/Card/bin/Debug/net9.0/Card.runtimeconfig.json
+/home/freddy/RiderProjects/Class Catacombs/Card/bin/Debug/net9.0/Card.dll
+/home/freddy/RiderProjects/Class Catacombs/Card/bin/Debug/net9.0/Card.pdb
+/home/freddy/RiderProjects/Class Catacombs/Card/obj/Debug/net9.0/Card.GeneratedMSBuildEditorConfig.editorconfig
+/home/freddy/RiderProjects/Class Catacombs/Card/obj/Debug/net9.0/Card.AssemblyInfoInputs.cache
+/home/freddy/RiderProjects/Class Catacombs/Card/obj/Debug/net9.0/Card.AssemblyInfo.cs
+/home/freddy/RiderProjects/Class Catacombs/Card/obj/Debug/net9.0/Card.csproj.CoreCompileInputs.cache
+/home/freddy/RiderProjects/Class Catacombs/Card/obj/Debug/net9.0/Card.dll
+/home/freddy/RiderProjects/Class Catacombs/Card/obj/Debug/net9.0/refint/Card.dll
+/home/freddy/RiderProjects/Class Catacombs/Card/obj/Debug/net9.0/Card.pdb
+/home/freddy/RiderProjects/Class Catacombs/Card/obj/Debug/net9.0/Card.genruntimeconfig.cache
+/home/freddy/RiderProjects/Class Catacombs/Card/obj/Debug/net9.0/ref/Card.dll

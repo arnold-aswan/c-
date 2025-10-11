@@ -1,0 +1,14 @@
+/home/freddy/RiderProjects/Program/packing inventory/bin/Debug/net9.0/packing inventory
+/home/freddy/RiderProjects/Program/packing inventory/bin/Debug/net9.0/packing inventory.deps.json
+/home/freddy/RiderProjects/Program/packing inventory/bin/Debug/net9.0/packing inventory.runtimeconfig.json
+/home/freddy/RiderProjects/Program/packing inventory/bin/Debug/net9.0/packing inventory.dll
+/home/freddy/RiderProjects/Program/packing inventory/bin/Debug/net9.0/packing inventory.pdb
+/home/freddy/RiderProjects/Program/packing inventory/obj/Debug/net9.0/packing inventory.GeneratedMSBuildEditorConfig.editorconfig
+/home/freddy/RiderProjects/Program/packing inventory/obj/Debug/net9.0/packing inventory.AssemblyInfoInputs.cache
+/home/freddy/RiderProjects/Program/packing inventory/obj/Debug/net9.0/packing inventory.AssemblyInfo.cs
+/home/freddy/RiderProjects/Program/packing inventory/obj/Debug/net9.0/packing inventory.csproj.CoreCompileInputs.cache
+/home/freddy/RiderProjects/Program/packing inventory/obj/Debug/net9.0/packing inventory.dll
+/home/freddy/RiderProjects/Program/packing inventory/obj/Debug/net9.0/refint/packing inventory.dll
+/home/freddy/RiderProjects/Program/packing inventory/obj/Debug/net9.0/packing inventory.pdb
+/home/freddy/RiderProjects/Program/packing inventory/obj/Debug/net9.0/packing inventory.genruntimeconfig.cache
+/home/freddy/RiderProjects/Program/packing inventory/obj/Debug/net9.0/ref/packing inventory.dll
