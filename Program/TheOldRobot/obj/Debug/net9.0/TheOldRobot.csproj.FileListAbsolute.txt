@@ -1,0 +1,14 @@
+/home/freddy/RiderProjects/Program/TheOldRobot/obj/Debug/net9.0/TheOldRobot.GeneratedMSBuildEditorConfig.editorconfig
+/home/freddy/RiderProjects/Program/TheOldRobot/obj/Debug/net9.0/TheOldRobot.AssemblyInfoInputs.cache
+/home/freddy/RiderProjects/Program/TheOldRobot/obj/Debug/net9.0/TheOldRobot.AssemblyInfo.cs
+/home/freddy/RiderProjects/Program/TheOldRobot/obj/Debug/net9.0/TheOldRobot.csproj.CoreCompileInputs.cache
+/home/freddy/RiderProjects/Program/TheOldRobot/bin/Debug/net9.0/TheOldRobot
+/home/freddy/RiderProjects/Program/TheOldRobot/bin/Debug/net9.0/TheOldRobot.deps.json
+/home/freddy/RiderProjects/Program/TheOldRobot/bin/Debug/net9.0/TheOldRobot.runtimeconfig.json
+/home/freddy/RiderProjects/Program/TheOldRobot/bin/Debug/net9.0/TheOldRobot.dll
+/home/freddy/RiderProjects/Program/TheOldRobot/bin/Debug/net9.0/TheOldRobot.pdb
+/home/freddy/RiderProjects/Program/TheOldRobot/obj/Debug/net9.0/TheOldRobot.dll
+/home/freddy/RiderProjects/Program/TheOldRobot/obj/Debug/net9.0/refint/TheOldRobot.dll
+/home/freddy/RiderProjects/Program/TheOldRobot/obj/Debug/net9.0/TheOldRobot.pdb
+/home/freddy/RiderProjects/Program/TheOldRobot/obj/Debug/net9.0/TheOldRobot.genruntimeconfig.cache
+/home/freddy/RiderProjects/Program/TheOldRobot/obj/Debug/net9.0/ref/TheOldRobot.dll

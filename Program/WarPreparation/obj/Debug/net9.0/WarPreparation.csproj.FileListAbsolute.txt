@@ -1,0 +1,14 @@
+/home/freddy/RiderProjects/Program/WarPreparation/bin/Debug/net9.0/WarPreparation
+/home/freddy/RiderProjects/Program/WarPreparation/bin/Debug/net9.0/WarPreparation.deps.json
+/home/freddy/RiderProjects/Program/WarPreparation/bin/Debug/net9.0/WarPreparation.runtimeconfig.json
+/home/freddy/RiderProjects/Program/WarPreparation/bin/Debug/net9.0/WarPreparation.dll
+/home/freddy/RiderProjects/Program/WarPreparation/bin/Debug/net9.0/WarPreparation.pdb
+/home/freddy/RiderProjects/Program/WarPreparation/obj/Debug/net9.0/WarPreparation.GeneratedMSBuildEditorConfig.editorconfig
+/home/freddy/RiderProjects/Program/WarPreparation/obj/Debug/net9.0/WarPreparation.AssemblyInfoInputs.cache
+/home/freddy/RiderProjects/Program/WarPreparation/obj/Debug/net9.0/WarPreparation.AssemblyInfo.cs
+/home/freddy/RiderProjects/Program/WarPreparation/obj/Debug/net9.0/WarPreparation.csproj.CoreCompileInputs.cache
+/home/freddy/RiderProjects/Program/WarPreparation/obj/Debug/net9.0/WarPreparation.dll
+/home/freddy/RiderProjects/Program/WarPreparation/obj/Debug/net9.0/refint/WarPreparation.dll
+/home/freddy/RiderProjects/Program/WarPreparation/obj/Debug/net9.0/WarPreparation.pdb
+/home/freddy/RiderProjects/Program/WarPreparation/obj/Debug/net9.0/WarPreparation.genruntimeconfig.cache
+/home/freddy/RiderProjects/Program/WarPreparation/obj/Debug/net9.0/ref/WarPreparation.dll

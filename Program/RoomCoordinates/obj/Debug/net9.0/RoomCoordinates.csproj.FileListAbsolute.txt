@@ -1,0 +1,14 @@
+/home/freddy/RiderProjects/Program/RoomCoordinates/bin/Debug/net9.0/RoomCoordinates
+/home/freddy/RiderProjects/Program/RoomCoordinates/bin/Debug/net9.0/RoomCoordinates.deps.json
+/home/freddy/RiderProjects/Program/RoomCoordinates/bin/Debug/net9.0/RoomCoordinates.runtimeconfig.json
+/home/freddy/RiderProjects/Program/RoomCoordinates/bin/Debug/net9.0/RoomCoordinates.dll
+/home/freddy/RiderProjects/Program/RoomCoordinates/bin/Debug/net9.0/RoomCoordinates.pdb
+/home/freddy/RiderProjects/Program/RoomCoordinates/obj/Debug/net9.0/RoomCoordinates.GeneratedMSBuildEditorConfig.editorconfig
+/home/freddy/RiderProjects/Program/RoomCoordinates/obj/Debug/net9.0/RoomCoordinates.AssemblyInfoInputs.cache
+/home/freddy/RiderProjects/Program/RoomCoordinates/obj/Debug/net9.0/RoomCoordinates.AssemblyInfo.cs
+/home/freddy/RiderProjects/Program/RoomCoordinates/obj/Debug/net9.0/RoomCoordinates.csproj.CoreCompileInputs.cache
+/home/freddy/RiderProjects/Program/RoomCoordinates/obj/Debug/net9.0/RoomCoordinates.dll
+/home/freddy/RiderProjects/Program/RoomCoordinates/obj/Debug/net9.0/refint/RoomCoordinates.dll
+/home/freddy/RiderProjects/Program/RoomCoordinates/obj/Debug/net9.0/RoomCoordinates.pdb
+/home/freddy/RiderProjects/Program/RoomCoordinates/obj/Debug/net9.0/RoomCoordinates.genruntimeconfig.cache
+/home/freddy/RiderProjects/Program/RoomCoordinates/obj/Debug/net9.0/ref/RoomCoordinates.dll

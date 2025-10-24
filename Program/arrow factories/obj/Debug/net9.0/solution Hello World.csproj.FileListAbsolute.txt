@@ -1,0 +1,14 @@
+/home/freddy/RiderProjects/Program/solution Hello World/bin/Debug/net9.0/solution Hello World
+/home/freddy/RiderProjects/Program/solution Hello World/bin/Debug/net9.0/solution Hello World.deps.json
+/home/freddy/RiderProjects/Program/solution Hello World/bin/Debug/net9.0/solution Hello World.runtimeconfig.json
+/home/freddy/RiderProjects/Program/solution Hello World/bin/Debug/net9.0/solution Hello World.dll
+/home/freddy/RiderProjects/Program/solution Hello World/bin/Debug/net9.0/solution Hello World.pdb
+/home/freddy/RiderProjects/Program/solution Hello World/obj/Debug/net9.0/solution Hello World.GeneratedMSBuildEditorConfig.editorconfig
+/home/freddy/RiderProjects/Program/solution Hello World/obj/Debug/net9.0/solution Hello World.AssemblyInfoInputs.cache
+/home/freddy/RiderProjects/Program/solution Hello World/obj/Debug/net9.0/solution Hello World.AssemblyInfo.cs
+/home/freddy/RiderProjects/Program/solution Hello World/obj/Debug/net9.0/solution Hello World.csproj.CoreCompileInputs.cache
+/home/freddy/RiderProjects/Program/solution Hello World/obj/Debug/net9.0/solution Hello World.dll
+/home/freddy/RiderProjects/Program/solution Hello World/obj/Debug/net9.0/refint/solution Hello World.dll
+/home/freddy/RiderProjects/Program/solution Hello World/obj/Debug/net9.0/solution Hello World.pdb
+/home/freddy/RiderProjects/Program/solution Hello World/obj/Debug/net9.0/solution Hello World.genruntimeconfig.cache
+/home/freddy/RiderProjects/Program/solution Hello World/obj/Debug/net9.0/ref/solution Hello World.dll
