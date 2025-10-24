@@ -21,71 +21,27 @@
    Alternates turns until one reaches 0 or below.
    Print out each attack and who wins.
  */
-namespace Challenge7
-{
-    public class Character
-    {
-        public string Name { get; }
-        private int Level { get; }
-        public int Health { get; private set; }
 
-        public Character(string name, int level, int health)
-        {
-            Name = name;
-            Level = level;
-            Health = health;
-        }
-        private void PrintStatus() => Console.WriteLine($"Name: {Name} \nLevel: {Level} \nHealth: {Health}");
+/*
+ * 🕹 Challenge 8: The Turn-Based Arena (500 XP)
+ * Concepts: OOP interaction, game logic, encapsulation
+ * Extend your Character class with attack methods.
+ * Simulate a 2-player turn-based fight system:
+ * Each turn: one attacks, one defends
+ * Randomized damage Display health each round
+ * 🔹 Bonus: Use inheritance for specialized classes like Warrior, Mage, Archer.
+ */
 
-        public void TakeDamage()
-        {
-            Random damage = new Random();
-            int damageTaken = damage.Next(1, 10);
-            if (Health > 0)
-            {
-                Health -= damageTaken;
-                Console.WriteLine($"{Name} took {damageTaken} damage.");
-                PrintStatus();
-                Console.WriteLine();
-            }
-            else
-            {
-                Console.WriteLine($"Player {Name} has died of low Health");
-                PrintStatus();
-                Console.WriteLine();
-            }
-        }
-    }
 
-    public class Game
-    {
-      public void Run(Character a, Character b)
-      {
-          Console.WriteLine("_________ GAME STARTED __________");
-          Console.WriteLine();
-
-          while (a.Health > 0 && b.Health > 0)
-          {
-              a.TakeDamage();
-              b.TakeDamage();
-          }
-          
-          if (a.Health > 0 && b.Health < 0)
-              Console.WriteLine($"{a.Name} Won");
-          else
-              Console.WriteLine($"{b.Name} Won");
-      }
-    }
-
+namespace Challenge7;
     class Program
     {
         public static void Main()
         {
-        Character c1 = new Character("John Doe", 1, 20);
-        Character c2 = new Character("Jane Doe", 1, 20);
+        Archer c1 = new Archer("Oliver Queen", 1, 20);
+        Mage c2 = new Mage("Stephen Strange", 1, 20);
 
         Game game = new Game();
         game.Run(c1, c2);
         }   
     }
-}
