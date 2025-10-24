@@ -12,6 +12,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WarPreparation", "WarPrepar
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ColoredItems", "ColoredItems\ColoredItems.csproj", "{793EA660-13A6-4E87-8F6E-A9AB9421F9FA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UsefulTypes", "UsefulTypes\UsefulTypes.csproj", "{C4581EED-6876-404E-B242-DD09187C94DE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -42,5 +44,9 @@ Global
 		{793EA660-13A6-4E87-8F6E-A9AB9421F9FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{793EA660-13A6-4E87-8F6E-A9AB9421F9FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{793EA660-13A6-4E87-8F6E-A9AB9421F9FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C4581EED-6876-404E-B242-DD09187C94DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4581EED-6876-404E-B242-DD09187C94DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C4581EED-6876-404E-B242-DD09187C94DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C4581EED-6876-404E-B242-DD09187C94DE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

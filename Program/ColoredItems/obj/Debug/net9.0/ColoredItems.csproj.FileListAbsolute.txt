@@ -12,3 +12,4 @@
 /home/freddy/RiderProjects/Program/ColoredItems/obj/Debug/net9.0/ColoredItems.pdb
 /home/freddy/RiderProjects/Program/ColoredItems/obj/Debug/net9.0/ColoredItems.genruntimeconfig.cache
 /home/freddy/RiderProjects/Program/ColoredItems/obj/Debug/net9.0/ref/ColoredItems.dll
+/home/freddy/RiderProjects/Program/ColoredItems/obj/Debug/net9.0/ColoredItems.sourcelink.json
